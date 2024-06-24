@@ -1,12 +1,15 @@
 body { 
     border: solid 20px;
-    color:#ad8b3a;
+    border-color: #ad8b3a;
     border-style:double;
     background-image: url("/University-Certificate/Assets/Images/logo.jpg");
     background-repeat: no-repeat;
     background-size:250px;
     background-position-x: center;
     background-position-y: 200px;
+    font-size: larger;
+    padding-left: 50px;
+    padding-bottom: 20px;
 } 
 h1,h2{
     text-align:center;
@@ -29,15 +32,18 @@ h2{
     border-radius: 50%;
     margin-left: 30px;
 }
-p{
+
+
+.p1{
     text-align: center;
     color: #000;
     font-variant: small-caps;
-}
-.p1{
     font-size:40px;
 }
 .p2{
+    text-align: center;
+    color: #000;
+    font-variant: small-caps;
     font-size:60px;
     font-weight: bold;
 }
