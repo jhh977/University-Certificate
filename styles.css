@@ -2,7 +2,9 @@ body {
     border: solid 20px;
     color:#ad8b3a;
     border-style:double;
-    background-color: rgb(218, 218, 218);
+    background-image: url("Assets/Images/logo.png");
+    background-repeat: no-repeat;
+    background-color: white;
 } 
 h1,h2{
     text-align:center;
